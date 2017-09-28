@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<dimen name="activity_size_1">1dp</dimen>
+    <dimen name="activity_size_2">2dp</dimen>
+    <dimen name="activity_size_4">4dp</dimen>
+    <dimen name="activity_size_6">6dp</dimen>
+    <dimen name="activity_size_8">8dp</dimen>
+    <dimen name="activity_size_10">10dp</dimen>
+    <dimen name="activity_size_12">12dp</dimen>
+    <dimen name="activity_size_14">14dp</dimen>
+    <dimen name="activity_size_16">16dp</dimen>
+    <dimen name="activity_size_18">18dp</dimen>
+    <dimen name="activity_size_20">20dp</dimen>
+    <dimen name="activity_size_25">25dp</dimen>
+    <dimen name="activity_size_30">30dp</dimen>
+    <dimen name="activity_size_35">35dp</dimen>
+    <dimen name="activity_size_40">40dp</dimen>
+    <dimen name="activity_size_45">45dp</dimen>
+    <dimen name="activity_size_50">50dp</dimen>
+    <dimen name="activity_size_60">60dp</dimen>
+    <dimen name="activity_size_80">80dp</dimen>
+    <dimen name="activity_size_100">100dp</dimen>
+    <dimen name="activity_size_120">120dp</dimen>
+    <dimen name="activity_size_140">140dp</dimen>
+    <dimen name="activity_size_160">160dp</dimen>
+    <dimen name="activity_size_180">180dp</dimen>
+    <dimen name="activity_size_200">200dp</dimen>
+    <dimen name="activity_size_250">250dp</dimen>
+    <dimen name="activity_size_300">300dp</dimen>
+    <dimen name="activity_size_350">350dp</dimen>
+    <dimen name="activity_size_400">400dp</dimen>
+    <dimen name="activity_size_450">450dp</dimen>
+    <dimen name="activity_size_500">500dp</dimen>
+
+    <dimen name="font_size_xxsmall">6dp</dimen>
+    <dimen name="font_size_xsmall">12dp</dimen>
+    <dimen name="font_size_small">24dp</dimen>
+    <dimen name="font_size_medium">48dp</dimen>
+    <dimen name="font_size_large">64dp</dimen>
+    <dimen name="font_size_xlarge">96dp</dimen>
+    <dimen name="font_size_xxlarge">128dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
