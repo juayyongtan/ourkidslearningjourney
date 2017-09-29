@@ -21,7 +21,7 @@ namespace PioneerCareSG
         protected override void OnCreate(Bundle savedInstanceState)
         {
 			// Disable Mobile Center Distribute at runtime
-			Distribute.SetEnabledAsync(true);
+			Distribute.SetEnabledAsync(false);
             Distribute.ReleaseAvailable = OnReleaseAvailable;
             MobileCenter.Start("f8da512a-363f-4c70-9505-b639f0a94f1a", typeof(Distribute));
             
